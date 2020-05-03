@@ -1,4 +1,4 @@
-# neko-build
+# nekoware-build
 Nekoware build system for IRIX 
 
 This toolset allows to build IRIX tardists. To build a tardist, run the build.sh script in the appropriate directory. 
